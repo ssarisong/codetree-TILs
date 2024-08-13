@@ -1,6 +1,5 @@
-a=2
-b=5
-a=temp
+a, b=2, 5
+temp=a
 a=b
 b=temp
 print(a)
