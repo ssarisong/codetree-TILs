@@ -1,0 +1,5 @@
+a=input()
+arr=a.split('-')
+bbbbbb=int(arr[0])
+ccccccc=int(arr[1])
+print(f"{bbbbbb}{ccccccc}")
